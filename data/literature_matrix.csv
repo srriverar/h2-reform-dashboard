@@ -1,0 +1,6 @@
+Área,Fuente,Año,Uso en el proyecto,Estado,URL
+Termodinámica,"NIST Chemistry WebBook, SRD 69",2025,"Coeficientes de Shomate y propiedades estándar de CH4, H2O, CO, CO2, H2 y O2",Implementado,https://webbook.nist.gov/chemistry/
+Cinética,"Xu, J.; Froment, G. F. Methane steam reforming, methanation and water-gas shift: I. Intrinsic kinetics. AIChE J. 35, 88–96",1989,"Modelo LHHW de referencia para la extensión cinética PFR",Planificado,https://doi.org/10.1002/aic.690350109
+Reformado,"Rostrup-Nielsen, J. R.; Sehested, J.; Nørskov, J. K. Hydrogen and Synthesis Gas by Steam- and CO2 Reforming. Advances in Catalysis 47, 65–139",2002,"Mecanismos, catalizadores, carbono y comparación SMR/DRM",Revisión inicial,https://doi.org/10.1016/S0360-0564(02)47006-X
+Datos termodinámicos,"Chase, M. W. NIST-JANAF Thermochemical Tables, 4th ed.",1998,"Trazabilidad de datos termoquímicos usados por NIST",Implementado vía NIST,https://janaf.nist.gov/
+Metodología,"Smith, J. M.; Van Ness, H. C.; Abbott, M. M. Introduction to Chemical Engineering Thermodynamics",2018,"Fundamentos de equilibrio y fugacidad; extensión futura a no idealidad",Referencia de método,https://www.mheducation.com/highered/product/introduction-to-chemical-engineering-thermodynamics-smith.html
